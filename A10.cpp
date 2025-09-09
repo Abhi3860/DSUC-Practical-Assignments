@@ -1,4 +1,4 @@
-//program to implement input restricted dqueue
+//Program to implement input restricted dequeue
 #include <iostream>
 using namespace std;
 
